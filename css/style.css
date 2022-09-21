@@ -1,0 +1,25 @@
+body
+{
+    padding: 5px;
+    margin: 5px;
+}
+
+
+#p1, #p2, #p3, #p4
+{
+    font-size: 14px;
+    color: rgb(99, 99, 99);
+}
+#card1
+{
+    padding-left: 8px;
+    padding-right: 5px;
+}
+#verificar
+{
+    list-style: square;
+}
+#boton
+{
+    margin-top: 15px;
+}
